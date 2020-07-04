@@ -1,0 +1,30 @@
+#logo{
+    font-family: 'Great Vibes', ;
+}
+.textonimage{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: white;
+    top: 50%;
+    font-size: 30px;
+}
+#toprow{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #EA5411;
+}
+#bottomrow{
+    padding-bottom: 20px;
+    background-color: #EA5411;
+}
+#map{
+    height: 400px;
+}
+#endingSection{
+    padding-bottom: 20px;
+    background-color: #84BA18;
+}
+#phoneSection{
+    background-color: #84BA18;
+}
